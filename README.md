@@ -41,7 +41,7 @@ npm run dev
 VITE_API_URL=https://api.midominio.com/
 ```
 ## 🧪 Ejecutar pruebas
-### Este proyecto usa Jest y React Testing Library para pruebas unitarias y de integración.
+### Este proyecto usa Jest y React Testing Library para pruebas unitarias.
 
 1. **Crea el archivo .env**
 ```bash

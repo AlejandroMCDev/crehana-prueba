@@ -38,7 +38,7 @@ npm run dev
 
 2. **Agrega tus variables al archivo .env**
 ```bash
-VITE_API_URL=https://api.midominio.com/
+VITE_PAISES_API=https://api.midominio.com/
 ```
 ## 🧪 Ejecutar pruebas
 ### Este proyecto usa Jest y React Testing Library para pruebas unitarias.

@@ -43,7 +43,7 @@ VITE_API_URL=https://api.midominio.com/
 ## 🧪 Ejecutar pruebas
 ### Este proyecto usa Jest y React Testing Library para pruebas unitarias.
 
-1. **Ejecuta los test
+1. **Ejecuta los test**
 ```bash
 npm test
 ```
